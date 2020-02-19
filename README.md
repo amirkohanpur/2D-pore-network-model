@@ -4,7 +4,6 @@ A pore-network model is a geometrical approximnation of complex porous media whe
 
 A two-dimensional pore-network model generator with arbitrary pore-body and pore-throat size distribution is written in MATLAB. The code calculates single-phase flow through pore-throats and solves for pressure in pore-bodies. The ouput is a representation of the generated pore-network with predicted pressure field and its average distribution.
 
-
 More details on pore-network modeling can be found in these sources:
 
 [1] Fatt, I. (1956). [The network model of porous media](https://www.onepetro.org/general/SPE-574-G). Petroleum Transactions, AIME, 207, 144-181.
