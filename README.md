@@ -6,7 +6,7 @@ A two-dimensional pore-network model generator with arbitrary pore-body and pore
 
 More details on pore-network modeling can be found in these sources:
 
-[1] Fatt, I. (1956). The network model of porous media. Petroleum Transactions, AIME, 207, 144-181.
+[1] Fatt, I. (1956). [The network model of porous media](https://www.onepetro.org/general/SPE-574-G). Petroleum Transactions, AIME, 207, 144-181.
 
 [2] Blunt, M. J. (2001). Flow in porous media—pore-network models and multiphase flow. Current opinion in colloid & interface science, 6(3), 197-207.
 
